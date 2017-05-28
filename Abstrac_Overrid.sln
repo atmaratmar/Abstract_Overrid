@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstrac_Overrid", "Abstrac_Overrid\Abstrac_Overrid.csproj", "{4A95931F-0CDF-467D-9493-CE013BF54119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A95931F-0CDF-467D-9493-CE013BF54119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A95931F-0CDF-467D-9493-CE013BF54119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A95931F-0CDF-467D-9493-CE013BF54119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A95931F-0CDF-467D-9493-CE013BF54119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
